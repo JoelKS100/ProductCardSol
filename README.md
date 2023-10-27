@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [Links](#links)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -13,7 +12,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://joelks100.github.io/ProductCardSol/]
 
 ### Built with
 
